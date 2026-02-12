@@ -1,0 +1,7 @@
+{
+  "name": "Limitless Student Portal",
+  "description": "An advanced student performance management and AI-driven analysis platform designed to push students beyond their academic limits through personalized insights for parents, teachers, and admins.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
